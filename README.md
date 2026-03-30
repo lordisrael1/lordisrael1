@@ -45,8 +45,5 @@
 [![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josephisrael206@gmail.com)
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lordisrael_)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josephisrael206@gmail.com)
 
 <sub>open to backend engineering roles · fintech · financial infrastructure · lagos & remote</sub>
