@@ -1,5 +1,30 @@
 ## Joseph Israel · Backend Engineer
+```
+ ██╗ ██████╗ ███████╗███████╗██████╗ ██╗  ██╗
+ ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██║  ██║
+ ██║██║   ██║███████╗█████╗  ██████╔╝███████║
+██╗██║██║   ██║╚════██║██╔══╝  ██╔═══╝ ██╔══██║
+╚█████╔╝███████║███████║███████╗██║     ██║  ██║
+ ╚════╝ ╚══════╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝
+```
 
+**`backend_engineer · lagos, nigeria`**
+
+---
+
+### // stack
+
+| Layer | Tools |
+|---|---|
+| Runtime | Node.js · Python |
+| Messaging | Apache Kafka |
+| Cache | Redis |
+| Database | PostgreSQL · MongoDB · DynamoDB |
+| Infra | Docker · Kubernetes |
+| Cloud | AWS (Lambda, EC2, S3, RDS) |
+| CI/CD | GitHub Actions · Jenkins |
+
+---
 > Computer Engineering graduate · Lagos, Nigeria  
 > Building scalable, distributed systems — with a growing focus on fintech and financial software.
 
