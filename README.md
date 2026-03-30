@@ -10,7 +10,7 @@
 
 ---
 
-### stack
+### Core stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,24 +25,24 @@
 
 ---
 
-### what I ship
+### What I build
 
-| | |
-|---|---|
-| **Distributed systems** | RESTful APIs · microservices · event-driven pipelines with Kafka & Redis |
-| **Data layer** | Schema design · query optimisation · PostgreSQL · MongoDB · DynamoDB |
-| **Cloud & DevOps** | AWS · Docker · Kubernetes · CI/CD |
-| **Research** | Published · biometric systems · [ITEGAM-JETIA 2025](https://www.itegam-jetia.org) |
+**Distributed systems** — RESTful APIs, microservices, and event-driven pipelines using Kafka and Redis.  
+**Data layer** — database schema design, query optimisation, and data integrity across PostgreSQL, MongoDB, and DynamoDB.  
+**Cloud & DevOps** — AWS (Lambda, EC2, S3), container orchestration with Docker and Kubernetes, CI/CD pipelines.  
+**Research** — published work in biometric systems, [ITEGAM-JETIA (2025)](https://www.itegam-jetia.org).
 
 ---
 
-### timeline
-```
-2025  ── Published — ITEGAM-JETIA · peer-reviewed · biometric systems
-2024  ── NYSC completed · backend engineering · distributed systems · cloud
-2023  ── B.Eng. Computer Engineering · FUTA
-```
+### Timeline
 
+<img src="timeline.svg" alt="Timeline" />
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lordisrael_)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josephisrael206@gmail.com)
 ---
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
