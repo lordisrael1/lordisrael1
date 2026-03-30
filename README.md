@@ -4,7 +4,7 @@
 
 <br>
 
-> I build the systems behind the product — distributed APIs, event-driven pipelines, and cloud infra that holds up under real load. Currently targeting roles in fintech and financial infrastructure.
+> I build the systems behind the product distributed APIs, event-driven pipelines, and cloud infra that holds up under real load. Currently targeting roles in fintech and financial infrastructure.
 
 <br>
 
