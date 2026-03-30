@@ -1,0 +1,15 @@
+<svg width="700" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse { 0%,100%{r:5;opacity:1} 50%{r:8;opacity:0.4} }
+    @keyframes fadeUp { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes slide { from{width:0} to{width:320px} }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+    .name { animation: fadeUp 0.7s 0.1s ease both; }
+    .sub { animation: fadeUp 0.7s 0.3s ease both; }
+    .line { animation: slide 0.8s 0.5s cubic-bezier(.4,0,.2,1) both; }
+  </style>
+  <circle class="dot" cx="14" cy="28" r="5" fill="#1D9E75"/>
+  <text class="name" x="30" y="36" font-family="monospace" font-size="22" font-weight="600" fill="#24292f">Joseph Israel</text>
+  <text class="sub" x="30" y="56" font-family="monospace" font-size="13" fill="#656d76">backend engineer · lagos, nigeria · available</text>
+  <rect class="line" x="30" y="68" height="2" fill="#1D9E75" width="0"/>
+</svg>
