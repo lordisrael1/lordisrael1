@@ -1,11 +1,10 @@
-## Joseph Israel · Backend Engineer
 <p align="left">
   <img src="header.svg" alt="Joseph Israel — Backend Engineer" />
 </p>
 
 <br>
 
-> Computer Engineering graduate · Lagos, Nigeria  
+> Computer Engineering graduate ·   
 > Building scalable, distributed systems — with a growing focus on fintech and financial software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Israel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-israel-6a1000164/)
