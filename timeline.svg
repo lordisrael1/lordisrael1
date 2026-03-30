@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg">
+  <line x1="60" y1="30" x2="60" y2="240" stroke="#1D9E75" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="60" cy="55" r="8" fill="#085041" stroke="#1D9E75" stroke-width="2"/>
+  <circle cx="60" cy="55" r="3" fill="#9FE1CB"/>
+  <rect x="82" y="35" width="560" height="40" rx="6" fill="#E1F5EE"/>
+  <rect x="82" y="35" width="3" height="40" rx="1" fill="#1D9E75"/>
+  <text font-family="monospace" font-size="13" font-weight="600" fill="#085041" x="96" y="52">2025 — Published · ITEGAM-JETIA</text>
+  <text font-family="monospace" font-size="11" fill="#0F6E56" x="96" y="67">Peer-reviewed research · biometric systems</text>
+
+  <circle cx="60" cy="130" r="8" fill="#0C447C" stroke="#378ADD" stroke-width="2"/>
+  <circle cx="60" cy="130" r="3" fill="#85B7EB"/>
+  <rect x="82" y="110" width="560" height="40" rx="6" fill="#E6F1FB"/>
+  <rect x="82" y="110" width="3" height="40" rx="1" fill="#378ADD"/>
+  <text font-family="monospace" font-size="13" font-weight="600" fill="#0C447C" x="96" y="127">2024 — NYSC · Backend Engineering</text>
+  <text font-family="monospace" font-size="11" fill="#185FA5" x="96" y="142">Distributed systems · microservices · cloud at scale</text>
+
+  <circle cx="60" cy="205" r="8" fill="#633806" stroke="#BA7517" stroke-width="2"/>
+  <circle cx="60" cy="205" r="3" fill="#FAC775"/>
+  <rect x="82" y="185" width="560" height="40" rx="6" fill="#FAEEDA"/>
+  <rect x="82" y="185" width="3" height="40" rx="1" fill="#BA7517"/>
+  <text font-family="monospace" font-size="13" font-weight="600" fill="#633806" x="96" y="202">2023 — B.Eng. Computer Engineering · FUTA</text>
+  <text font-family="monospace" font-size="11" fill="#854F0B" x="96" y="217">Federal University of Technology, Akure</text>
+</svg>
